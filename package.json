@@ -1,8 +1,8 @@
 {
-  "name": "@brightspace-ui-labs/file-uploader",
+  "name": "@vivekbyri/file-uploader",
   "version": "2.0.1",
   "description": "Polymer-based web component for D2L file uploader",
-  "repository": "https://github.com/BrightspaceUI/file-uploader.git",
+  "repository": "https://github.com/Vivekbyri/fileUpload",
   "publishConfig": {
     "access": "public"
   },
@@ -14,7 +14,7 @@
     "test:polymer:local": "polymer test --skip-plugin sauce",
     "test:polymer:sauce": "polymer test --skip-plugin local"
   },
-  "author": "D2L Corporation",
+  "author": "vivek",
   "license": "Apache-2.0",
   "devDependencies": {
     "@babel/polyfill": "^7",
