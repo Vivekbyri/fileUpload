@@ -1,6 +1,6 @@
 {
   "name": "@vivekbyri/file-uploader",
-  "version": "2.0.9",
+  "version": "2.1.0",
   "description": "Polymer-based web component for D2L file uploader",
   "repository": "https://github.com/Vivekbyri/fileUpload",
   "publishConfig": {
