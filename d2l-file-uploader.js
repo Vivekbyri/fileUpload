@@ -13,7 +13,7 @@
 //import '@brightspace-ui/core/components/colors/colors.js';
 // import 'd2l-polymer-behaviors/d2l-focusable-behavior.js';
 // import 'd2l-offscreen/d2l-offscreen-shared-styles.js';
-import './localize-behavior.js';
+// import './localize-behavior.js';
 import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
 const $_documentContainer = document.createElement('template');
 
