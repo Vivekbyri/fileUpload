@@ -10,7 +10,7 @@
 */
 //import '@polymer/polymer/polymer-legacy.js';
 
-//import '@brightspace-ui/core/components/colors/colors.js';
+// import '@brightspace-ui/core/components/colors/colors.js';
 // import 'd2l-polymer-behaviors/d2l-focusable-behavior.js';
 // import 'd2l-offscreen/d2l-offscreen-shared-styles.js';
 // import './localize-behavior.js';
@@ -189,10 +189,10 @@ document.head.appendChild($_documentContainer.content);
 Polymer({
 	is: 'd2l-labs-file-uploader',
 
-	behaviors: [
-		D2L.PolymerBehaviors.FileUploader.LocalizeBehavior,
-		D2L.PolymerBehaviors.FocusableBehavior
-	],
+	// behaviors: [
+	// 	D2L.PolymerBehaviors.FileUploader.LocalizeBehavior,
+	// 	D2L.PolymerBehaviors.FocusableBehavior
+	// ],
 
 	properties: {
 		/**
